@@ -4,6 +4,6 @@ public class HelloGitHub
 {
 	public static void Main()
 	{
-		Console.WriteLine("Hello, GitHub");
+		Console.WriteLine("Hello, Petar");
 	}
 }
